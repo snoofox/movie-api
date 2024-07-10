@@ -1,0 +1,45 @@
+# Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Django files
+*.sqlite3
+db.sqlite3
+*.log
+
+# Virtual environment files
+.venv/
+venv/
+env/
+*.env
+
+# IDE files
+.vscode/
+.pycharm/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Media files (if you're not tracking them in Git)
+media/
+
+# Static files (if you're not tracking them in Git)
+static/
+
+# Node modules (if you're using Node.js)
+node_modules/
+
+# Coverage files
+coverage/
+.htmlcov/
+
+# Django debug toolbar files
+debug_toolbar/
+
+# pytest files
+.pytest_cache/
+
+images/
